@@ -1,0 +1,105 @@
+.logo {
+  width: 100px;
+
+}
+
+.me-2 {
+  color: green;
+}
+
+.logo-title {
+  font-family: avenir-lt-w01_35-light1475496,sans-serif;
+  color: rgb(64, 156, 140) !important;
+  border: 2.5px solid rgb(64, 156, 140);
+  background-color: var(--container-corvid-background-color, rgba(var(--bg, var(--color_11)), var(--alpha-bg, 1)));
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.nav-item>link {
+  color: green;
+}
+
+.navbar {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100%;
+}
+
+.carousel {
+  width: 100%;
+  margin: auto;
+}
+
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 10px 10px;
+  padding: 0.5em 10px;
+  /* quotes: "\201C""\201D""\2018""\2019"; */
+}
+
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+}
+
+.img {
+  margin: auto;
+  width: 24.2%;
+  height: 480px;
+  margin: 0px 5px 20px 5px;
+}
+
+.carousel-img {
+  width: 100%;
+}
+
+.language {}
+
+.css-1oqqzyl-MuiContainer-root {
+  padding: 0px !important;
+}
+
+.leader-card {
+  width: 900px;
+  height: 320px;
+  margin: 10px;
+  word-break: normal;
+  padding: 2px;
+  text-decoration: none !important;
+}
+
+/* .video-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+} */
+
+.video-responsive iframe {
+  height: 400px;
+  width: 47%;
+  margin: 20px;
+}
+.icons{
+  margin: 5px;
+}
+.card-title{
+  padding-bottom: 0px !important;
+}
+.viewcount{
+  font-family: Cursive,"Roboto","Arial",sans-serif;
+    font-size: 0.2rem;
+    margin: 5px;
+}
+.leader-card-img{
+  margin-right: 10px;
+}
